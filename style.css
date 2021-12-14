@@ -3,6 +3,12 @@
 }
 .search{
     font-size: 5em;
-    border: chartreuse;
+    border: 5px solid gold;
     border-radius: 10%;
+    background-color: red;
+    color: gold;
+}
+.search:hover{
+    background-color:gold;
+    color: red;
 }
